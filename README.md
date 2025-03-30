@@ -14,15 +14,6 @@ This repository presents a **hybrid Transformer-based summarization model** that
 
 ---
 
-## 📁 Project Structure
-
-```bash
-├── testrun_major_project.ipynb   # Main notebook with training + inference
-├── utils/                        # Optional utility scripts
-├── data/                         # Your training & test datasets
-├── outputs/                      # Generated summaries & evaluation results
-└── README.md                     # Project documentation
-```
 
 ---
 
@@ -34,12 +25,6 @@ Install required dependencies:
 pip install transformers
 pip install evaluate
 pip install datasets  # optional
-```
-
-If using a GPU (recommended):
-
-```bash
-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 ```
 
 ---
@@ -105,11 +90,6 @@ Generated Summary
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**. See `LICENSE` file for details.
-
----
 
 ## 🙌 Acknowledgements
 
