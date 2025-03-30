@@ -68,15 +68,7 @@ ROUGE-L: 0.3415
 
 ## 🏗️ Model Architecture
 
-```
-DistilBERT (Encoder)
-        ↓
-  [Prompt: SUMMARIZE + Encoded Input]
-        ↓
-     Phi-2 (Decoder)
-        ↓
-Generated Summary
-```
+![Architecure Diagram](Major Project Arch 1.png)
 
 ---
 
