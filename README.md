@@ -68,7 +68,8 @@ ROUGE-L: 0.3415
 
 ## 🏗️ Model Architecture
 
-![Architecure Diagram](Major Project Arch 1.png)
+![Model Architecture](./Text%20Summarization%20using%20DistilBERT-Phi%202%20Arch%20Diagram.png)
+
 
 ---
 
