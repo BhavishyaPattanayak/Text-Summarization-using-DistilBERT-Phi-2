@@ -56,7 +56,6 @@ Example Output:
 ROUGE-1: 0.4390
 ROUGE-2: 0.2564
 ROUGE-L: 0.3415
-ROUGE Accuracy (Threshold 0.7): 0.00%
 ```
 
 ---
